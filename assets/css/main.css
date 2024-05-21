@@ -3340,7 +3340,7 @@
 			background-color: #1E2832;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/header3.jpg");
+			background-image: url("images/overlay.png"), url("../../images/new_header.jpg");
 			background-size: cover;
 		}
 
@@ -3888,7 +3888,7 @@
 		background-color: #4072a5;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/header3.jpg");
+		background-image: url("images/overlay.png"), url("../../images/banner1.jpg");
 		background-size: cover;
 		text-align: center;
 		min-height: 85vh;
